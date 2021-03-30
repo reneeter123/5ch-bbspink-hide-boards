@@ -33,4 +33,4 @@
 
 - [SPARROW](https://stat.5ch.net/SPARROW/)から全鯖名を取得可能。  
   隠し板を含めた全板一覧も取得できそうだが[phoebe宝箱](https://phoebe.bbspink.com/phoebetr/)等が無い。
-- https://鯖名.ドメイン/_service/bbslist.txtから隠し板を含めた鯖内の全板名を取得可能。
+- https\://鯖名.ドメイン/_service/bbslist.txtから隠し板を含めた鯖内の全板名を取得可能。
