@@ -15,7 +15,7 @@
 | mint宝箱               | <https://lavender.5ch.net/minttr/>       |
 | leiaゴミ箱             | <https://leia.5ch.net/leiatr/>           |
 | mao宝箱                | <https://mao.5ch.net/maotr/>             |
-|                        | <https://medaka.5ch.net/medakatr/>       |
+| medakatr               | <https://medaka.5ch.net/medakatr/>       |
 | mercury宝箱＠2ch掲示板 | <https://mercury.bbspink.com/mercurytr/> |
 | medakaゴミ箱           | <https://mevius.5ch.net/meviustr/>       |
 | 開発室                 | <https://mevius.5ch.net/sakhalin/>       |
@@ -26,11 +26,21 @@
 | rosieゴミ箱            | <https://rosie.5ch.net/rosietr/>         |
 | swallow箱              | <https://swallow.5ch.net/swallowtr/>     |
 
-[medakatr](https://medaka.5ch.net/medakatr/)はアクセス不能。SETTING.TXTやsubback.htmlにもアクセスできない。  
-[運用情報(金)](https://qb7.5ch.net/operate2/)もアクセス不能。ただしSETTING.TXTにはアクセスできた。
+[medakatr](https://medaka.5ch.net/medakatr/)と[運用情報(金)](https://qb7.5ch.net/operate2/)は専ブラからのみアクセス可能。
+
+## BBSMENU
+
+<https://reneeter123.github.io/5ch-bbspink-hide-boards/bbsmenu.html>
+
+本家のBBSMENUと一緒に使用してください。  
+本家とはエンコードが違うので一部専ブラで読み込めない可能性があります。
 
 ## メモ
 
 - [SPARROW](https://stat.5ch.net/SPARROW/)から全鯖名を取得可能。  
   隠し板を含めた全板一覧も取得できそうだが[phoebe宝箱](https://phoebe.bbspink.com/phoebetr/)等が無い。
 - `https://鯖名.ドメイン/_service/bbslist.txt`から隠し板を含めた鯖内の全板名を取得可能。
+
+## 参考
+
+[5chの隠し板の一覧を作った](https://schmovic.hateblo.jp/entry/2018/04/07/182421)
