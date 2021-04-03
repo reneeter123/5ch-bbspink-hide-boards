@@ -15,7 +15,7 @@
 | mint宝箱               | <https://lavender.5ch.net/minttr/>       |
 | leiaゴミ箱             | <https://leia.5ch.net/leiatr/>           |
 | mao宝箱                | <https://mao.5ch.net/maotr/>             |
-| medakatr               | <https://medaka.5ch.net/medakatr/>       |
+| medakaがっこう         | <https://medaka.5ch.net/medakatr/>       |
 | mercury宝箱＠2ch掲示板 | <https://mercury.bbspink.com/mercurytr/> |
 | medakaゴミ箱           | <https://mevius.5ch.net/meviustr/>       |
 | 開発室                 | <https://mevius.5ch.net/sakhalin/>       |
@@ -26,7 +26,10 @@
 | rosieゴミ箱            | <https://rosie.5ch.net/rosietr/>         |
 | swallow箱              | <https://swallow.5ch.net/swallowtr/>     |
 
-[medakatr](https://medaka.5ch.net/medakatr/)と[運用情報(金)](https://qb7.5ch.net/operate2/)は専ブラからのみアクセス可能。
+[medakaがっこう](https://medaka.5ch.net/medakatr/)と[運用情報(金)](https://qb7.5ch.net/operate2/)は専ブラからのみアクセス可能。
+
+[medakaがっこう](https://medaka.5ch.net/medakatr/)はSETTING.TXTにアクセスできず専ブラからも`medakatr`や`302 Found`としか表示されないので、  
+[Internet Archive](https://web.archive.org/web/20170730151011/http://medaka.2ch.net/medakatr/)から板名を拾ってきた。
 
 ## BBSMENU
 
