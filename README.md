@@ -12,12 +12,12 @@
 | hebiゴミ箱             | <https://hebi.5ch.net/hebitr/>           |
 | himawariゴミ箱         | <https://himawari.5ch.net/himawaritr/>   |
 | lavender宝箱           | <https://lavender.5ch.net/lavendertr/>   |
-| mint宝箱               | <https://lavender.5ch.net/minttr/>       |
+| mint宝箱＠2ch掲示板    | <https://lavender.5ch.net/minttr/>       |
 | leiaゴミ箱             | <https://leia.5ch.net/leiatr/>           |
 | mao宝箱                | <https://mao.5ch.net/maotr/>             |
 | medakaがっこう         | <https://medaka.5ch.net/medakatr/>       |
 | mercury宝箱＠2ch掲示板 | <https://mercury.bbspink.com/mercurytr/> |
-| medakaゴミ箱           | <https://mevius.5ch.net/meviustr/>       |
+| mevius吸い殻入れ       | <https://mevius.5ch.net/meviustr/>       |
 | 開発室                 | <https://mevius.5ch.net/sakhalin/>       |
 | phoebe宝箱             | <https://phoebe.bbspink.com/phoebetr/>   |
 | qb5ゴミ箱＠2ch掲示板   | <https://qb5.5ch.net/qb5tr/>             |
@@ -38,11 +38,17 @@
 本家のBBSMENUと一緒に使用してください。  
 本家とはエンコードが違うので一部専ブラで読み込めない可能性があります。
 
-## メモ
+## ソース
 
 - [SPARROW](https://stat.5ch.net/SPARROW/)から全鯖名を取得可能。  
-  隠し板を含めた全板一覧も取得できそうだが[phoebe宝箱](https://phoebe.bbspink.com/phoebetr/)等が無い。
-- `https://鯖名.ドメイン/_service/bbslist.txt`から隠し板を含めた鯖内の全板名を取得可能。
+  （隠し板を含めた全板一覧も取得できそうだが[phoebe宝箱](https://phoebe.bbspink.com/phoebetr/)等が無い）
+- `https://鯖名.ドメイン/_service/bbslist.txt`から隠し板を含めた鯖内の全板名を取得可能。  
+  （`https://鯖名.ドメイン/`からも取得できそうだが[tanukiゴミ箱＠2ch掲示板](https://tanuki.5ch.net/tanukitr/)等の死んでいる板も含まれている）
+
+## おまけ
+
+- [鯖一覧](omake/server-list.md)
+- [名無し一覧](omake/nanashi-list.md)
 
 ## 参考
 
