@@ -26,24 +26,12 @@
 | rosieゴミ箱            | <https://rosie.5ch.net/rosietr/>         |
 | swallow箱              | <https://swallow.5ch.net/swallowtr/>     |
 
-[medakaがっこう](https://medaka.5ch.net/medakatr/)と[運用情報(金)](https://qb7.5ch.net/operate2/)は専ブラからのみアクセス可能。
-
-[medakaがっこう](https://medaka.5ch.net/medakatr/)はSETTING.TXTにアクセスできず専ブラからも`medakatr`や`302 Found`としか表示されないので、  
-[Internet Archive](https://web.archive.org/web/20170730151011/http://medaka.2ch.net/medakatr/)から板名を拾ってきた。
-
 ## BBSMENU
 
 <https://reneeter123.github.io/5ch-bbspink-hide-boards/bbsmenu.html>
 
 本家のBBSMENUと一緒に使用してください。  
 本家とはエンコードが違うので一部専ブラで読み込めない可能性があります。
-
-## ソース
-
-- [SPARROW](https://stat.5ch.net/SPARROW/)から全鯖名を取得可能。  
-  （隠し板を含めた全板一覧も取得できそうだが[phoebe宝箱](https://phoebe.bbspink.com/phoebetr/)等が無い）
-- `https://鯖名.ドメイン/_service/bbslist.txt`から隠し板を含めた鯖内の全板名を取得可能。  
-  （`https://鯖名.ドメイン/`からも取得できそうだが[tanukiゴミ箱＠2ch掲示板](https://tanuki.5ch.net/tanukitr/)等の死んでいる板も含まれている）
 
 ## おまけ
 

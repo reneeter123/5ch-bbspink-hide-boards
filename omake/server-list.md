@@ -1,5 +1,8 @@
 # 鯖一覧
 
+板数: 1035  
+（[BBSMENU](https://menu.5ch.net/bbsmenu.html)に載っている板数: 1016）
+
 | 鯖名      | URL                            | 板数 |
 | --------- | ------------------------------ | ---- |
 | agree     | <https://agree.5ch.net/>       | 34   |
@@ -25,12 +28,3 @@
 | rosie     | <https://rosie.5ch.net/>       | 27   |
 | swallow   | <https://swallow.5ch.net/>     | 2    |
 | tanuki    | <https://tanuki.5ch.net/>      | 2    |
-
-板数: 1035  
-（[BBSMENU](https://menu.5ch.net/bbsmenu.html)に載っている板数: 1016）
-
-## ソース
-
-- [SPARROW](https://stat.5ch.net/SPARROW/)から全鯖名を取得可能。
-- `https://鯖名.ドメイン/_service/bbslist.txt`から隠し板を含めた鯖内の全板名を取得可能。  
-  （`https://鯖名.ドメイン/`からも取得できそうだが[tanukiゴミ箱＠2ch掲示板](https://tanuki.5ch.net/tanukitr/)等の死んでいる板も含まれている）

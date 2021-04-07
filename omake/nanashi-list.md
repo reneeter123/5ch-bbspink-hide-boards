@@ -1037,18 +1037,3 @@
 | 薔薇と百合の名無しさん                                               | 大人の同性愛＠bbspink掲示板                                                 | <https://mercury.bbspink.com/gaypink/>        |
 | Ψ                                                                    | ニュース＆天候実況＋＋                                                      | <https://rosie.5ch.net/liveplus/>             |
 | ФゝФ〕Иαηα∫н！∫αη                                                    | 芸術デザイン＠2ch掲示板                                                     | <https://lavender.5ch.net/art/>               |
-
-[medakaがっこう](https://medaka.5ch.net/medakatr/)はSETTING.TXTにアクセスできないので、  
-[スレ](https://medaka.5ch.net/test/read.cgi/medakatr/1495791007/)から名無しを、[Internet Archive](https://web.archive.org/web/20170730151011/http://medaka.2ch.net/medakatr/)から板名を拾ってきた。
-
-## ソース
-
-- [SPARROW](https://stat.5ch.net/SPARROW/)から全鯖名を取得可能。  
-  （隠し板を含めた全板一覧も取得できそうだが[phoebe宝箱](https://phoebe.bbspink.com/phoebetr/)等が無い）
-- `https://鯖名.ドメイン/_service/bbslist.txt`から隠し板を含めた鯖内の全板名を取得可能。  
-  （`https://鯖名.ドメイン/`からも取得できそうだが[tanukiゴミ箱＠2ch掲示板](https://tanuki.5ch.net/tanukitr/)等の死んでいる板も含まれている）
-- `https://鯖名.ドメイン/ディレクトリ/SETTING.TXT`から名無しと板名を取得可能。
-
-## 参考
-
-[SETTING.TXT](https://info.5ch.net/index.php/SETTING.TXT)
