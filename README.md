@@ -28,10 +28,11 @@
 
 ## BBSMENU
 
-<https://reneeter123.github.io/5ch-bbspink-hide-boards/bbsmenu.html>
+<https://5ch-bbspink-hide-boards.vercel.app/bbsmenu.html>  
+<https://5ch-bbspink-hide-boards.vercel.app/bbsmenu_merge.html>
 
-本家のBBSMENUと一緒に使用してください。  
-本家とはエンコードが違うので一部専ブラで読み込めない可能性があります。
+`bbsmenu.html`は本家のBBSMENUと一緒に使用してください。  
+`bbsmenu_merge.html`は本家のBBSMENUとマージしたものです。
 
 ## おまけ
 
