@@ -38,6 +38,7 @@
 
 - [鯖一覧](omake/server-list.md)
 - [名無し一覧](omake/nanashi-list.md)
+- [TATESUGI（BBS_THREAD_TATESUGI）値一覧](omake/tatesugi-list.md)
 
 ## 参考
 
