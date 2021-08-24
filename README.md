@@ -30,8 +30,8 @@
 <https://5ch-bbspink-hide-boards.vercel.app/bbsmenu.html>  
 <https://5ch-bbspink-hide-boards.vercel.app/bbsmenu_merge.html>
 
-`bbsmenu.html`は本家のBBSMENUと一緒に使用してください。  
-`bbsmenu_merge.html`は本家のBBSMENUとマージしたものです。
+`bbsmenu.html`は[本家のBBSMENU](https://menu.5ch.net/bbsmenu.html)と一緒に使用してください。  
+`bbsmenu_merge.html`は[本家のBBSMENU](https://menu.5ch.net/bbsmenu.html)とマージしたものです。
 
 ## おまけ
 
