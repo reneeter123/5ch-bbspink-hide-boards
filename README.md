@@ -8,7 +8,6 @@
 | ---------------------- | ---------------------------------------- |
 | 壁                     | <https://egg.5ch.net/wall/>              |
 | fateゴミ箱             | <https://fate.5ch.net/fatetr/>           |
-| 歳納京子               | <https://hayabusa9.5ch.net/hayabusa9tr/> |
 | hebiゴミ箱             | <https://hebi.5ch.net/hebitr/>           |
 | himawariゴミ箱         | <https://himawari.5ch.net/himawaritr/>   |
 | lavender宝箱           | <https://lavender.5ch.net/lavendertr/>   |
