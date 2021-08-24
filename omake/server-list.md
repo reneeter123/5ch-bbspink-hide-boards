@@ -1,7 +1,7 @@
 # 鯖一覧
 
-板数: 1035  
-（[BBSMENU](https://menu.5ch.net/bbsmenu.html)に載っている板数: 1016）
+板数: 1036  
+（[BBSMENU](https://menu.5ch.net/bbsmenu.html)に載っている板数: 1018）
 
 | 鯖名      | URL                            | 板数 |
 | --------- | ------------------------------ | ---- |
@@ -27,4 +27,4 @@
 | rio2016   | <https://rio2016.5ch.net/>     | 100  |
 | rosie     | <https://rosie.5ch.net/>       | 27   |
 | swallow   | <https://swallow.5ch.net/>     | 2    |
-| tanuki    | <https://tanuki.5ch.net/>      | 2    |
+| tanuki    | <https://tanuki.5ch.net/>      | 3    |

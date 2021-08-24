@@ -122,6 +122,7 @@
 | maji                                                                 | dejima＠2ch.BBS                                                             | <https://rio2016.5ch.net/dejima/>             |
 | Miss名無しさん                                                       | 独身女性＠2ch掲示板                                                         | <https://mao.5ch.net/sfe/>                    |
 | Mr.anonymous                                                         | ENGLISH ERO                                                                 | <https://phoebe.bbspink.com/bbbb/>            |
+| Mr.名無しさん                                                        | 独身男性                                                                    | <https://lavender.5ch.net/male/>              |
 | Ms.名無しさん                                                        | 女性＠2ch掲示板                                                             | <https://mao.5ch.net/wom/>                    |
 | Ｍサイズ名無し                                                       | ふれんちふらい＠２ちゃんねる掲示板                                          | <https://egg.5ch.net/frenchfry/>              |
 | ＮＡＭＥ　ＢＯＹ                                                     | 携帯ゲームレトロ(仮)＠2ch掲示板                                             | <https://medaka.5ch.net/rhandyg/>             |
@@ -225,7 +226,7 @@
 | それも名無しだ                                                       | ロボットゲー＠2ch掲示板                                                     | <https://mevius.5ch.net/gamerobo/>            |
 | ちむじゅらピンキー                                                   | PINK沖縄                                                                    | <https://phoebe.bbspink.com/pinkokn/>         |
 | ちょっと待て名無しが今何か言った                                     | 朝生(仮)＠2ch掲示板                                                         | <https://matsuri.5ch.net/argue/>              |
-| ツール・ド・名無しさん                                               | 自転車＠2ch掲示板                                                           | <https://medaka.5ch.net/bicycle/>             |
+| ツール・ド・名無しさん                                               | 自転車＠5ch掲示板                                                           | <https://medaka.5ch.net/bicycle/>             |
 | つまらないものですが名無しです                                       | みやげ物・特産物(仮)＠2ch掲示板                                             | <https://matsuri.5ch.net/localfoods/>         |
 | てってーてき名無しさん                                               | スカパー＠2ch掲示板                                                         | <https://egg.5ch.net/skyp/>                   |
 | デフォルトの名無しさん                                               | プログラム技術＠2ch掲示板                                                   | <https://mevius.5ch.net/tech/>                |
@@ -328,6 +329,7 @@
 | 何語で名無しますか？                                                 | 外国語（英語除く）＠2ch掲示板                                               | <https://lavender.5ch.net/gogaku/>            |
 | 可愛い奥様                                                           | 既婚女性＠2ch掲示板                                                         | <https://matsuri.5ch.net/ms/>                 |
 | 歌舞伎町ピンキー                                                     | PINK歌舞伎町                                                                | <https://phoebe.bbspink.com/pinkkbkc/>        |
+| 火星で死ぬ名無し                                                     | なんでも実況(マーズ)                                                        | <https://tanuki.5ch.net/livemars/>            |
 | 花と名無しさん                                                       | 少女漫画＠2ch掲示板                                                         | <https://medaka.5ch.net/gcomic/>              |
 | 花咲か名無しさん                                                     | 園芸＠2ch掲示板                                                             | <https://lavender.5ch.net/engei/>             |
 | 回想774列車                                                          | 鉄道懐かし(仮)＠2ch掲示板                                                   | <https://mao.5ch.net/jnr/>                    |
@@ -378,7 +380,6 @@
 | 氏名黙秘                                                             | 司法試験＠2ch掲示板                                                         | <https://medaka.5ch.net/shihou/>              |
 | 私事ですが名無しです                                                 | 私のニュース速報＠2ch掲示板                                                 | <https://matsuri.5ch.net/news7/>              |
 | 自己責任名無しさん                                                   | 削除要請＠2ch掲示板                                                         | <https://qb5.5ch.net/saku2ch/>                |
-| 自治スレッドで強制ID導入議論中                                       | 独身男性                                                                    | <https://lavender.5ch.net/male/>              |
 | 自治は要求じゃない。                                                 | qb5ゴミ箱＠2ch掲示板                                                        | <https://qb5.5ch.net/qb5tr/>                  |
 | 自治は要求じゃない。                                                 | qb7ゴミ箱＠2ch掲示板                                                        | <https://qb7.5ch.net/qb7tr/>                  |
 | 七しの子＠名無しさん                                                 | 童謡･唱歌＠2ch掲示板                                                        | <https://lavender.5ch.net/doyo/>              |
@@ -472,7 +473,7 @@
 | 彼氏いない歴774年                                                    | もてない女＠2ch掲示板                                                       | <https://medaka.5ch.net/wmotenai/>            |
 | 非決定性名無しさん                                                   | 情報システム＠2ch掲示板                                                     | <https://matsuri.5ch.net/infosys/>            |
 | 非公開＠個人情報保護のため                                           | 公務員                                                                      | <https://rio2016.5ch.net/koumu/>              |
-| 非通知さん＠アプリ起動中                                             | 携帯電話ゲーム＠2ch掲示板                                                   | <https://hayabusa9.5ch.net/appli/>            |
+| 非通知さん＠アプリ起動中                                             | 携帯電話ゲーム                                                              | <https://hayabusa9.5ch.net/appli/>            |
 | 非通知さん                                                           | 携帯PHS＠2ch掲示板                                                          | <https://lavender.5ch.net/phs/>               |
 | 備えあれば憂い名無し                                                 | 防犯・詐欺対策                                                              | <https://rio2016.5ch.net/bouhan/>             |
 | 美麗島の名無桑                                                       | 台湾＠2ch掲示板                                                             | <https://lavender.5ch.net/taiwan/>            |
@@ -482,7 +483,7 @@
 | 不明なデバイスさん                                                   | ハードウェア＠2ch掲示板                                                     | <https://mevius.5ch.net/hard/>                |
 | 風と木の名無しさん                                                   | 801                                                                         | <https://mercury.bbspink.com/801/>            |
 | 風の谷の名無しさん＠LR&amp;設定変更議論中。。。                      | アニメアンチ＠2ch掲示板                                                     | <https://fate.5ch.net/antianime/>             |
-| 風の谷の名無しさん＠実況は実況板で                                   | アニメ＠2ch掲示板                                                           | <https://rosie.5ch.net/anime/>                |
+| 風の谷の名無しさん＠実況は実況板で                                   | アニメ＠5ch掲示板                                                           | <https://rosie.5ch.net/anime/>                |
 | 風吹けば名無し                                                       | なんでも実況(ジュピター)                                                    | <https://swallow.5ch.net/livejupiter/>        |
 | 文責・名無しさん                                                     | マスコミ＠2ch掲示板                                                         | <https://egg.5ch.net/mass/>                   |
 | 壁に耳あり、障子にメアリーさん                                       | 壁                                                                          | <https://egg.5ch.net/wall/>                   |
@@ -685,7 +686,7 @@
 | 名無しさん＠お腹いっぱい。                                           | 家電・ホームセンター・量販店(仮)＠2ch掲示板                                 | <https://egg.5ch.net/hcenter/>                |
 | 名無しさん＠お腹いっぱい。                                           | 懐かしアニメ平成＠2ch掲示板                                                 | <https://mao.5ch.net/ranimeh/>                |
 | 名無しさん＠お腹いっぱい。                                           | 懐かしドラマ板＠2ch掲示板                                                   | <https://matsuri.5ch.net/natsudora/>          |
-| 名無しさん＠お腹いっぱい。                                           | 懐かしニュース(仮)＠2ch掲示板                                               | <https://matsuri.5ch.net/archives/>           |
+| 名無しさん＠お腹いっぱい。                                           | 懐かしニュース(仮)＠5ch掲示板                                               | <https://matsuri.5ch.net/archives/>           |
 | 名無しさん＠お腹いっぱい。                                           | 海外AKB48G                                                                  | <https://fate.5ch.net/world48/>               |
 | 名無しさん＠お腹いっぱい。                                           | 海外アニメ漫画(仮)＠2ch掲示板                                               | <https://medaka.5ch.net/cartoon/>             |
 | 名無しさん＠お腹いっぱい。                                           | 開発室                                                                      | <https://mevius.5ch.net/sakhalin/>            |
@@ -768,7 +769,7 @@
 | 名無しさん＠ソウルいっぱい。                                         | R&B・SOUL(仮)＠2ch掲示板                                                    | <https://lavender.5ch.net/randb/>             |
 | 名無しさん＠どーでもいいことだが。                                   | 同人＠2ch掲示板                                                             | <https://medaka.5ch.net/doujin/>              |
 | 名無しさん＠どっと混む                                               | 起業、ベンチャー                                                            | <https://rio2016.5ch.net/venture/>            |
-| 名無しさん＠ドル箱いっぱい                                           | パチンコ機種・メーカー＠2ch掲示板                                           | <https://medaka.5ch.net/pachik/>              |
+| 名無しさん＠ドル箱いっぱい                                           | パチンコ機種・メーカー＠5ch掲示板                                           | <https://medaka.5ch.net/pachik/>              |
 | 名無しさん＠ピンキー                                                 | 大人のモバイル                                                              | <https://phoebe.bbspink.com/mobpink/>         |
 | 名無しさん＠ピンキー                                                 | AV Plus                                                                     | <https://mercury.bbspink.com/avplus/>         |
 | 名無しさん＠ピンキー                                                 | AV女優＠bbspink掲示板                                                       | <https://mercury.bbspink.com/avideo2/>        |
