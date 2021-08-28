@@ -9,5 +9,11 @@
                 }
             ]
         }
+    ],
+    "redirects": [
+        {
+            "source": "/",
+            "destination": "https://github.com/reneeter123/5ch-bbspink-hide-boards"
+        }
     ]
 }
