@@ -4,7 +4,7 @@
 
 ## 隠し板一覧
 
-板名は各板のSETTING.TXTのBBS_TITLEから取得している。
+板名は各板のSETTING.TXTのBBS_TITLEから取得している。  
 （BBS_TITLE_ORIGが存在しない板もあるため）
 
 medakaがっこうはSETTING.TXTが取得できないため[Wayback Machine](https://web.archive.org/web/20170730151011/medaka.2ch.net/medakatr/)から板名を取得。
