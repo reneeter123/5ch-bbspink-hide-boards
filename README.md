@@ -4,6 +4,9 @@
 
 ## 隠し板一覧
 
+板名は各板のSETTING.TXTのBBS_TITLEから取得している。
+（BBS_TITLE_ORIGが存在しない板もあるため）
+
 | 板名                   | URL                                      |
 | ---------------------- | ---------------------------------------- |
 | 壁                     | <https://egg.5ch.net/wall/>              |
@@ -14,10 +17,11 @@
 | mint宝箱＠2ch掲示板    | <https://lavender.5ch.net/minttr/>       |
 | leiaゴミ箱             | <https://leia.5ch.net/leiatr/>           |
 | mao宝箱                | <https://mao.5ch.net/maotr/>             |
-| medakaがっこう         | <https://medaka.5ch.net/medakatr/>       |
+| medakaがっこう[^1]     | <https://medaka.5ch.net/medakatr/>       |
 | mercury宝箱＠2ch掲示板 | <https://mercury.bbspink.com/mercurytr/> |
 | mevius吸い殻入れ       | <https://mevius.5ch.net/meviustr/>       |
 | 開発室                 | <https://mevius.5ch.net/sakhalin/>       |
+| nova箱                 | <https://nova.5ch.net/novatr/>           |
 | phoebe宝箱             | <https://phoebe.bbspink.com/phoebetr/>   |
 | qb5ゴミ箱＠2ch掲示板   | <https://qb5.5ch.net/qb5tr/>             |
 | 運用情報(金)           | <https://qb7.5ch.net/operate2/>          |
@@ -36,9 +40,9 @@
 ## おまけ
 
 - [鯖一覧](omake/server-list.md)
-- [名無し一覧](omake/nanashi-list.md)
-- [TATESUGI（BBS_THREAD_TATESUGI）値一覧](omake/tatesugi-list.md)
 
 ## 参考
 
 [5chの隠し板の一覧を作った](https://schmovic.hateblo.jp/entry/2018/04/07/182421)
+
+[^1]: SETTING.TXTが取得できないため[Wayback Machine](https://web.archive.org/web/20170730151011/medaka.2ch.net/medakatr/)から板名を取得。
