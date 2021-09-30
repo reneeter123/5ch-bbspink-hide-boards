@@ -4,11 +4,11 @@
             "source": "/(.+)",
             "headers": [
                 {
-                    "key": "Content-Type",
+                    "key": "content-type",
                     "value": "text/html; charset=Shift_JIS"
                 },
                 {
-                    "key": "Content-Type",
+                    "key": "Content-Type-Two",
                     "value": "text/html; charset=Shift_JIS"
                 }
             ]
