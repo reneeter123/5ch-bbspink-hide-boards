@@ -36,6 +36,10 @@ medakaがっこうはSETTING.TXTが取得できないため[Wayback Machine](htt
 <https://5ch-bbspink-hide-boards.vercel.app/bbsmenu.html>  
 <https://5ch-bbspink-hide-boards.vercel.app/bbsmenu_merge.html>
 
+**なぜかvercel.jsonでContent-Typeが上書きできなくなったので現在UTF-8にしています。  
+<https://github.com/vercel/vercel/discussions/6767>  
+一部専ブラでは文字化けすると思いますが許してください。:bow:**
+
 `bbsmenu.html`は[本家のBBSMENU](https://menu.5ch.net/bbsmenu.html)と一緒に使用してください。  
 `bbsmenu_merge.html`は[本家のBBSMENU](https://menu.5ch.net/bbsmenu.html)とマージしたものです。
 

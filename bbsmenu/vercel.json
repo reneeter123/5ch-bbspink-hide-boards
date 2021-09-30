@@ -1,19 +1,4 @@
 {
-    "headers": [
-        {
-            "source": "/(.+)",
-            "headers": [
-                {
-                    "key": "Content-Type",
-                    "value": "text/html; charset=Shift_JIS"
-                },
-                {
-                    "key": "Date",
-                    "value": "Thu, 30 Sep 2021 12:47:33 GMT"
-                }
-            ]
-        }
-    ],
     "redirects": [
         {
             "source": "/",
