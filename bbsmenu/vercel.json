@@ -4,12 +4,12 @@
             "source": "/(.+)",
             "headers": [
                 {
-                    "key": "content-type",
+                    "key": "Content-Type",
                     "value": "text/html; charset=Shift_JIS"
                 },
                 {
-                    "key": "Content-Type-Two",
-                    "value": "text/html; charset=Shift_JIS"
+                    "key": "Date",
+                    "value": "Thu, 30 Sep 2021 12:47:33 GMT"
                 }
             ]
         }
