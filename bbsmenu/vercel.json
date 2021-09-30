@@ -6,6 +6,14 @@
                 {
                     "key": "Content-Type",
                     "value": "text/html; charset=Shift_JIS"
+                },
+                {
+                    "key": "X-Test-Header",
+                    "value": "test"
+                },
+                {
+                    "key": "X-Test-Two-Header",
+                    "value": "text/html; charset=Shift_JIS"
                 }
             ]
         }
