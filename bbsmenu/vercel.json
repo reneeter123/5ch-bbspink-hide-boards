@@ -1,4 +1,15 @@
 {
+    "headers": [
+        {
+            "source": "/(.+)",
+            "headers": [
+                {
+                    "key": "Content-Type",
+                    "value": "text/html; charset=Shift_JIS"
+                }
+            ]
+        }
+    ],
     "redirects": [
         {
             "source": "/",
