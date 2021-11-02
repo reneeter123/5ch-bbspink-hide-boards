@@ -1,6 +1,6 @@
 # 鯖一覧
 
-総板数: 1038
+総板数: 1039
 
 | 鯖名                | 板数 |
 | ------------------- | ---- |
@@ -18,13 +18,13 @@
 | matsuri.5ch.net     | 116  |
 | medaka.5ch.net      | 102  |
 | mercury.bbspink.com | 81   |
-| mevius.5ch.net      | 91   |
+| mevius.5ch.net      | 92   |
 | nhk2.5ch.net        | 5    |
-| nova.5ch.net        | 2    |
+| nova.5ch.net        | 4    |
 | phoebe.bbspink.com  | 31   |
+| pug.5ch.net         | 25   |
 | qb5.5ch.net         | 3    |
 | qb7.5ch.net         | 2    |
 | rio2016.5ch.net     | 100  |
-| rosie.5ch.net       | 27   |
 | swallow.5ch.net     | 2    |
 | tanuki.5ch.net      | 3    |

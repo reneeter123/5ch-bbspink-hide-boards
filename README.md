@@ -25,10 +25,10 @@ medakaがっこうはSETTING.TXTが取得できないため[Wayback Machine](htt
 | 開発室                 | <https://mevius.5ch.net/sakhalin/>       |
 | nova箱                 | <https://nova.5ch.net/novatr/>           |
 | phoebe宝箱             | <https://phoebe.bbspink.com/phoebetr/>   |
+| pug箱                  | <https://pug.5ch.net/pugtr/>             |
 | qb5ゴミ箱＠2ch掲示板   | <https://qb5.5ch.net/qb5tr/>             |
 | 運用情報(金)           | <https://qb7.5ch.net/operate2/>          |
 | qb7ゴミ箱＠2ch掲示板   | <https://qb7.5ch.net/qb7tr/>             |
-| rosieゴミ箱            | <https://rosie.5ch.net/rosietr/>         |
 | swallow箱              | <https://swallow.5ch.net/swallowtr/>     |
 
 ## BBSMENU
