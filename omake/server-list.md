@@ -8,12 +8,12 @@
 | asahi.5ch.net       | 4    |
 | egg.5ch.net         | 108  |
 | fate.5ch.net        | 43   |
+| greta.5ch.net       | 3    |
 | hayabusa9.5ch.net   | 9    |
 | hebi.5ch.net        | 2    |
 | himawari.5ch.net    | 13   |
 | krsw.5ch.net        | 27   |
 | lavender.5ch.net    | 105  |
-| leia.5ch.net        | 3    |
 | mao.5ch.net         | 125  |
 | matsuri.5ch.net     | 116  |
 | medaka.5ch.net      | 102  |

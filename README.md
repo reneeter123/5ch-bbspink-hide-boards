@@ -13,11 +13,11 @@ medakaがっこうはSETTING.TXTが取得できないため[Wayback Machine](htt
 | ---------------------- | ---------------------------------------- |
 | 壁                     | <https://egg.5ch.net/wall/>              |
 | fateゴミ箱             | <https://fate.5ch.net/fatetr/>           |
+| greta箱                | <https://greta.5ch.net/gretatr/>         |
 | hebiゴミ箱             | <https://hebi.5ch.net/hebitr/>           |
 | himawariゴミ箱         | <https://himawari.5ch.net/himawaritr/>   |
 | lavender宝箱           | <https://lavender.5ch.net/lavendertr/>   |
 | mint宝箱＠2ch掲示板    | <https://lavender.5ch.net/minttr/>       |
-| leiaゴミ箱             | <https://leia.5ch.net/leiatr/>           |
 | mao宝箱                | <https://mao.5ch.net/maotr/>             |
 | medakaがっこう         | <https://medaka.5ch.net/medakatr/>       |
 | mercury宝箱＠2ch掲示板 | <https://mercury.bbspink.com/mercurytr/> |
